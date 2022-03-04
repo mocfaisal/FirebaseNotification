@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseNotif</string>
+    <string name="default_notification_channel_id">EXFBNOTIF</string>
+    <string name="fcm_message">Test Title</string>
+</resources>
